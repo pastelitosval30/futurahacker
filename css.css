@@ -1,0 +1,16 @@
+*{
+    font-family:sans-serif;
+    background-color: rgb(255, 166, 0);
+    border: 3px,rgb(205, 238, 175);
+    border-style:double;
+}
+h1 {
+    color: rgb(237, 162, 100);
+}
+h2 {
+    border-style: solid;
+    border-color:rgb(255, 141, 47) ;
+}
+h3{
+    border-width: 1em;
+}
